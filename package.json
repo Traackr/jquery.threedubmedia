@@ -1,0 +1,10 @@
+{
+    "name": "jquery.threedubmedia",
+    "version": "1.0.0",
+    "description": "jquery plugins",
+    "url": "https://github.com/Traackr/jquery.threedubmedia",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Traackr/jquery.threedubmedia"
+    }
+}
